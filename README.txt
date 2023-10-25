@@ -14,3 +14,7 @@ https://bacteria.ensembl.org/info/data/ftp/index.html #寻找菌群的fasta，�
 
 #scFlow
 https://combiz.github.io/scFlow/articles/scFlow.html
+
+# 序列处理
+https://github.com/lh3/seqtk
+https://umi-tools.readthedocs.io/en/latest/Single_cell_tutorial.html#tl-dr
