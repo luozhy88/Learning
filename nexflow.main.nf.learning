@@ -1,0 +1,22 @@
+
+vim /home/zhiyu/.nextflow/assets/nextflow-io/hello/main.nf
+#######################################################
+#!/usr/bin/env nextflow
+nextflow.enable.dsl=2
+
+process sayHello {
+  input:
+    val x
+  output:
+    stdout
+  script:
+    """
+    echo '$x vvvvvvvvvvvvvworld!'
+    /bin/Rscript /data/zhiyu/data/script/send.mail.r
+    """
+}
+
+workflow {
+  Channel.of('Bonjour', 'Ciao', 'Hello', 'Hola') | sayHello | view
+}
+#######################################################
