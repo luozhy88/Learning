@@ -28,3 +28,6 @@ a.https://github.com/NBISweden/workshop_omics_integration
 b.https://github.com/NBISweden/workshop_omics_integration/blob/main/reading_materials.md
 c.https://github.com/NBISweden/workshop_omics_integration/blob/main/schedule.md
 d.https://github.com/orgs/NBISweden/repositories
+
+# wes
+https://www.yuque.com/biotrainee/wes
