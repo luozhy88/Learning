@@ -31,3 +31,8 @@ d.https://github.com/orgs/NBISweden/repositories
 
 # wes
 https://www.yuque.com/biotrainee/wes
+
+# ML
+https://jtr13.github.io/cc21fall2/feature-selection-in-r.html
+https://christophm.github.io/interpretable-ml-book/logistic.html
+https://medium.com/analytics-vidhya/feature-selection-extended-overview-b58f1d524c1c
