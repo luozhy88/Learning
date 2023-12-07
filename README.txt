@@ -35,4 +35,8 @@ https://www.yuque.com/biotrainee/wes
 # ML
 https://jtr13.github.io/cc21fall2/feature-selection-in-r.html
 https://christophm.github.io/interpretable-ml-book/logistic.html
+
+## Boruta特征变量筛选
 https://medium.com/analytics-vidhya/feature-selection-extended-overview-b58f1d524c1c
+https://zhuanlan.zhihu.com/p/658320667 #原理
+https://blog.51cto.com/u_16077014/6226244 #原理
