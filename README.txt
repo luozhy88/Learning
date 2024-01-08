@@ -40,3 +40,6 @@ https://christophm.github.io/interpretable-ml-book/logistic.html
 https://medium.com/analytics-vidhya/feature-selection-extended-overview-b58f1d524c1c
 https://zhuanlan.zhihu.com/p/658320667 #原理
 https://blog.51cto.com/u_16077014/6226244 #原理
+
+# 代谢物富集
+https://csbg.cnb.csic.es/mbrole3/
