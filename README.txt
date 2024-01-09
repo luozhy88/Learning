@@ -43,3 +43,7 @@ https://blog.51cto.com/u_16077014/6226244 #原理
 
 # 代谢物富集
 https://csbg.cnb.csic.es/mbrole3/
+
+# TCM
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8632989/
+https://github.com/shuzixin9212/symptom-diversity/tree/main/SCN/SCN/Input #症状与基因关系
