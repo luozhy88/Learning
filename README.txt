@@ -55,5 +55,7 @@ https://rpubs.com/ardalby/TCGA_analysis1
 
 # GEO
 https://sbc.shef.ac.uk/geo_tutorial/tutorial.nb.html
+https://hbctraining.github.io/Accessing_public_genomic_data/lessons/accessing_public_experimental_data.html
 
+# COSMIC
 
