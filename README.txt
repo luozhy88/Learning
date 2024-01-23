@@ -51,4 +51,5 @@ https://github.com/shuzixin9212/symptom-diversity/tree/main/SCN/SCN/Input #ç—‡çŠ
 # TCGA
 https://cran.r-project.org/web/packages/TCGAretriever/vignettes/getting_started_with_TCGAretriever.html
 https://rpubs.com/tiagochst/TCGAworkshop
+https://rpubs.com/ardalby/TCGA_analysis1
 
