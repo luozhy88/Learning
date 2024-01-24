@@ -49,6 +49,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8632989/
 https://github.com/shuzixin9212/symptom-diversity/tree/main/SCN/SCN/Input #症状与基因关系
 
 # TCGA
+https://bioconductor.org/packages/devel/bioc/vignettes/TCGAbiolinks/inst/doc/casestudy.html
 https://cran.r-project.org/web/packages/TCGAretriever/vignettes/getting_started_with_TCGAretriever.html
 https://rpubs.com/tiagochst/TCGAworkshop
 https://rpubs.com/ardalby/TCGA_analysis1
