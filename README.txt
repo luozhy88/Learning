@@ -54,6 +54,12 @@ https://cran.r-project.org/web/packages/TCGAretriever/vignettes/getting_started_
 https://rpubs.com/tiagochst/TCGAworkshop
 https://rpubs.com/ardalby/TCGA_analysis1
 
+# TARGET 
+Support of Therapeutically Applicable Research To Generate Effective Treatments (TARGET) data
+https://bioconductor.org/packages/devel/bioc/vignettes/TCGAbiolinks/inst/doc/extension.html#Support_of_Therapeutically_Applicable_Research_To_Generate_Effective_Treatments_(TARGET)_data:
+TCGAbiolinks is providing functions to query and download TARGET data and also get SummarizedExperiments objects ready to use for downstream analysis. Moreover, a new design has been suggested for function TCGAanalyze_DEA to allow more user customization and support of limma pipeline.
+
+
 # GEO
 https://sbc.shef.ac.uk/geo_tutorial/tutorial.nb.html
 https://hbctraining.github.io/Accessing_public_genomic_data/lessons/accessing_public_experimental_data.html
