@@ -69,3 +69,6 @@ http://bioinformatics.sdstate.edu/reads/ #idep
 
 # COSMIC
 # depmap
+
+# proteomics  
+https://www.youtube.com/watch?v=KwprNYv5Pp0&list=PLHLRxq8iKFsKrwd6QeKh2pQh6Hzj7V-jT&index=1  
