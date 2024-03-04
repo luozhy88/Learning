@@ -72,3 +72,7 @@ http://bioinformatics.sdstate.edu/reads/ #idep
 
 # proteomics  
 https://www.youtube.com/watch?v=KwprNYv5Pp0&list=PLHLRxq8iKFsKrwd6QeKh2pQh6Hzj7V-jT&index=1  
+
+# 机器学习算法
+https://www.youtube.com/watch?v=_L39rN6gz7Y 决策树  
+https://www.youtube.com/watch?v=J4Wdy0Wc_xQ 随机森林
