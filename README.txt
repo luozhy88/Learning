@@ -79,3 +79,8 @@ https://www.youtube.com/watch?v=J4Wdy0Wc_xQ 随机森林
 
 # genomic to protein  比对
 https://github.com/lh3/miniprot/tree/master
+
+# 最新信息
+https://getblaze.email
+# AI
+https://metaso.cn/
