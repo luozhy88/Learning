@@ -2,3 +2,5 @@
 # 多组学关于年龄
 Integrated analysis of gut metabolome, microbiome, and brain function reveal the role of gut-brain axis in longevity
 https://www.tandfonline.com/doi/full/10.1080/19490976.2024.2331434?af=R
+Machine learning model for predicting age in healthy individuals using age-related gut microbes and urine metabolites
+https://www.tandfonline.com/doi/full/10.1080/19490976.2023.2226915?af=R
